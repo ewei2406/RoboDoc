@@ -22,3 +22,5 @@ RoboDoc is a simple web app that takes user input, applies basic languages proce
 - [Frontend](frontend) build using React.js.
 
 - App deployed on Heroku.
+
+Note: Submitted to HackDuke 2021
