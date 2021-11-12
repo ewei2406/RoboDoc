@@ -20,6 +20,6 @@ RoboDoc is a simple web app that takes user input, applies basic languages proce
 
 - Keras model weights served from backend and loaded on client-end using TensorflowJS to reduce server load.
 
-- [Frontend](frontend) build using React.js.
+- [Frontend](frontend) build using React.
 
 - App deployed on Heroku.
